@@ -69,6 +69,8 @@ python 02_lsce.py
 
 The script clips the rasters with the boundary, counts the pixels of each class and writes the same tables as the ArcMap version.
 
+Because GeoTIFFs do not store class names, set `LULC_PATTERN` (file names) and `CLASS_CODES` (which value is which class in each year) in `config.py` before running. The Rajshahi codes are already filled in.
+
 ---
 
 ## Expected output (Rajshahi)

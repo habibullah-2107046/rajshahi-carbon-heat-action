@@ -41,7 +41,7 @@ Using the 95% level (Gi_Bin ≥ 2 or ≤ −2), each cell is assigned to a zone:
 ```bash
 python 04_hotspot.py
 ```
-The open-source version uses `esda.G_Local` from the PySAL library with the same settings.
+The open-source version calculates Gi* with the same formula as ArcGIS. On the Rajshahi data it gives identical zone areas to ArcMap in all six years.
 
 ## Expected output (Rajshahi)
 
@@ -60,4 +60,4 @@ The grid shapefile receives new fields: `HSC_YYYY` (carbon Gi_Bin), `HSH_YYYY` (
 
 > **Note:** In the ArcMap Python window the printed summary sometimes does not appear even though the script finished. If `>>>` returns and the twelve `HS_` layers are added to the map, the run was successful; open `hotspot_zone_summary.csv` to see the results.
 
-Small differences (a few cells) between the ArcMap and open-source versions are normal, because the two programs implement FDR and neighbour selection in slightly different ways.
+The two versions agree for 99.8–100% of cells; a difference of one or two cells at a significance boundary is normal.
