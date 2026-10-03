@@ -155,10 +155,10 @@ You can run the workflow in **two ways**. Both produce the same outputs.
 |---|---|---|---|
 | 1 | Download input data | [`docs/01_data.md`](docs/01_data.md) | same |
 | 2 | LST, NDVI, NDBI in Google Earth Engine | [`scripts/gee/`](scripts/gee/) | same |
-| 3 | Clip LULC and calculate LSCE | `scripts/arcmap/` | `scripts/opensource/` |
-| 4 | Build the 240 m grid and aggregate all layers | `scripts/arcmap/` | `scripts/opensource/` |
-| 5 | Gi\* hotspots and carbon–heat zones | `scripts/arcmap/` | `scripts/opensource/` |
-| 6 | Statistics and publication maps | `scripts/opensource/` | same |
+| 3 | Clip LULC and calculate LSCE | `scripts/arcmap/` | [`scripts/opensource/`](scripts/opensource/) |
+| 4 | Build the 240 m grid and aggregate all layers | [`scripts/arcmap/`](scripts/arcmap/) | [`scripts/opensource/`](scripts/opensource/) |
+| 5 | Gi\* hotspots and carbon–heat zones | [`scripts/arcmap/`](scripts/arcmap/) | [`scripts/opensource/`](scripts/arcmap/) |
+| 6 | Statistics and publication maps | [`scripts/opensource/`](scripts/arcmap/) | same |
 
 **What you need**
 
