@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Carbon-Conscious Urban Heat Action in Rajshahi: code, data and results"
+type: software
+license: MIT
+date-released: 2026-10-03
+keywords:
+  - land-specific carbon emission
+  - land surface temperature
+  - urban heat island
+  - Getis-Ord Gi*
+  - remote sensing
+  - Rajshahi
+authors:
+  - family-names: Rahman
+    given-names: Md. Naimur
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+  - family-names: Faridatul
+    given-names: Mst Ilme
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+  - family-names: Masbah
+    given-names: Md. Habibullah
+    email: habibullah.ruet.urp@gmail.com
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+  - family-names: Faruq
+    given-names: Md. Omar
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+  - family-names: Ubaidullah
+    given-names: Md.
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+  - family-names: Radin
+    given-names: Dihan Islam
+    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
+preferred-citation:
+  type: generic
+  title: "Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics"
+  status: submitted
+  year: 2026
+  publisher:
+    name: Springer
+  collection-title: "Urban Heat Actions of 100 Global Cities (Urban Climate Resilience series)"
+  authors:
+    - family-names: Rahman
+      given-names: Md. Naimur
+    - family-names: Faridatul
+      given-names: Mst Ilme
+    - family-names: Masbah
+      given-names: Md. Habibullah
+    - family-names: Faruq
+      given-names: Md. Omar
+    - family-names: Ubaidullah
+      given-names: Md.
+    - family-names: Radin
+      given-names: Dihan Islam
