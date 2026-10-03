@@ -3,6 +3,9 @@ message: "If you use this repository, please cite it as below."
 title: "Carbon-Conscious Urban Heat Action in Rajshahi: code, data and results"
 type: software
 license: MIT
+version: 1.0.1
+doi: 10.5281/zenodo.23119031
+repository-code: "https://github.com/habibullah-2107046/rajshahi-carbon-heat-action"
 date-released: 2026-10-03
 keywords:
   - land-specific carbon emission

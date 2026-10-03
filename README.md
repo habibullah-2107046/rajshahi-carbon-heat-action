@@ -1,5 +1,7 @@
 # Carbon-Conscious Urban Heat Action in Rajshahi, Bangladesh
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23119031.svg)](https://doi.org/10.5281/zenodo.23119031)
+
 **Where do carbon emission and urban heat meet? A remote-sensing workflow for Rajshahi City Corporation, 2000–2025**
 
 This repository contains everything needed to understand, reproduce and adapt the study *"Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics"*: the manuscript, the methodology, all scripts, the results tables and the figures.
@@ -211,7 +213,11 @@ If you use this repository, please cite the chapter:
 
 > Rahman, M.N., Faridatul, M.I., Masbah, M.H., Faruq, M.O., Ubaidullah, M. (2026). Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics. In: He, B.-J. (Ed.), *Urban Heat Actions of 100 Global Cities*. Urban Climate Resilience. Springer. (Submitted, under review.)
 
-The citation will be updated with the DOI after publication. GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
+If you use the code, data or results, please also cite this repository:
+
+> Rahman, M.N., Faridatul, M.I., Masbah, M.H., Faruq, M.O., Ubaidullah, M. (2026). *Carbon-Conscious Urban Heat Action in Rajshahi: code, data and results* (Version 1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23119031
+
+The chapter citation will be updated with its DOI after publication. GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 
 ---
 
