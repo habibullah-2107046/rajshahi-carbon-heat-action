@@ -1,0 +1,17 @@
+# Large input rasters are not stored in the repository (see data/README.md)
+*.tif
+*.tiff
+*.img
+data/raw/
+# ArcGIS temporary files
+*.lock
+*.ovr
+*.aux.xml
+info/
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# OS
+.DS_Store
+Thumbs.db
