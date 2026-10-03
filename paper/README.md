@@ -4,7 +4,7 @@
 
 **Title:** Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics
 
-**Authors:** Md. Naimur Rahman, Mst Ilme Faridatul, Md. Habibullah Masbah (corresponding), Md. Omar Faruq, Md. Ubaidullah, Dihan Islam Radin
+**Authors:** Md. Naimur Rahman, Mst Ilme Faridatul, Md. Habibullah Masbah (corresponding), Md. Omar Faruq, Md. Ubaidullah
 
 **Status:** The chapter abstract was accepted for the edited volume *Urban Heat Actions of 100 Global Cities* (Editor: Prof. Bao-Jie He), to be published by Springer in the *Urban Climate Resilience* series. The full chapter was submitted in September 2026 and is under editorial review.
 
