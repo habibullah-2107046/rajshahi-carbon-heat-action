@@ -209,7 +209,7 @@ The heat action framework in Section 6 of the paper (monitor → zone → act �
 
 If you use this repository, please cite the chapter:
 
-> Rahman, M.N., Faridatul, M.I., Masbah, M.H., Faruq, M.O., Ubaidullah, M., Radin, D.I. (2026). Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics. In: He, B.-J. (Ed.), *Urban Heat Actions of 100 Global Cities*. Urban Climate Resilience. Springer. (Submitted, under review.)
+> Rahman, M.N., Faridatul, M.I., Masbah, M.H., Faruq, M.O., Ubaidullah, M. (2026). Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics. In: He, B.-J. (Ed.), *Urban Heat Actions of 100 Global Cities*. Urban Climate Resilience. Springer. (Submitted, under review.)
 
 The citation will be updated with the DOI after publication. GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 
@@ -217,7 +217,7 @@ The citation will be updated with the DOI after publication. GitHub also shows a
 
 ## 10. Authors, funding and contact
 
-**Authors:** Md. Naimur Rahman, Mst Ilme Faridatul, Md. Habibullah Masbah\*, Md. Omar Faruq, Md. Ubaidullah, Dihan Islam Radin
+**Authors:** Md. Naimur Rahman, Mst Ilme Faridatul, Md. Habibullah Masbah\*, Md. Omar Faruq, Md. Ubaidullah
 Department of Urban & Regional Planning, Rajshahi University of Engineering & Technology (RUET), Rajshahi 6204, Bangladesh
 
 \*Corresponding author: habibullah.ruet.urp@gmail.com

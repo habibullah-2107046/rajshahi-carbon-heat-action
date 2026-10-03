@@ -28,9 +28,6 @@ authors:
   - family-names: Ubaidullah
     given-names: Md.
     affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
-  - family-names: Radin
-    given-names: Dihan Islam
-    affiliation: "Department of Urban & Regional Planning, RUET, Bangladesh"
 preferred-citation:
   type: generic
   title: "Carbon-Conscious Urban Heat Action through Remote Sensing-Based Assessment of Land-Specific Carbon Dynamics"
@@ -50,5 +47,3 @@ preferred-citation:
       given-names: Md. Omar
     - family-names: Ubaidullah
       given-names: Md.
-    - family-names: Radin
-      given-names: Dihan Islam
